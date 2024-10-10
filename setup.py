@@ -18,7 +18,7 @@ setup(
     author='kinopico',
     author_email='zqmillet@qq.com',
     url='https://github.com/zqmillet/sphinx-plantuml',
-    description='an extension for sphinx to render plantuml in sphinx documents',
+    description='an modified extension for sphinx to render plantuml in sphinx documents',
     packages=['sphinxcontrib.plantuml'],
     install_requires=install_requires,
     long_description=long_description,
